@@ -1,6 +1,6 @@
 # MassTransitReconnectTest
 
-Belongs to Issue 
+Belongs to Issue https://github.com/MassTransit/MassTransit/issues/1307
 
 * Start all three projects.
 * Use the sender to send some messages
